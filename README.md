@@ -20,7 +20,8 @@ https://twitter.com/bitandbang
    ║                                                     ║
    ║                 M A R T I N  A L I X                ║
    ║                                                     ║
-   ║          Work:  Principal UI Engineer at Autodesk   ║
+   ║          Work:  Software architect, Team Lead,      ║
+   ║                 Coach, Senior Developer             ║
    ║       Twitter:  https://twitter.com/malix           ║
    ║           npm:  https://npmjs.com/~malix            ║
    ║        GitHub:  https://github.com/malixsys         ║

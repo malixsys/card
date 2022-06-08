@@ -1,6 +1,6 @@
 {
   "name": "malix",
-  "version": "0.0.5",
+  "version": "0.22.7",
   "description": "npx card for Martin Alix (@malix)",
   "main": "/bin/card.js",
   "bin": {
